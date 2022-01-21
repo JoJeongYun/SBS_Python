@@ -27,5 +27,5 @@ while a <= 10:
         
     a = a + 1
     
-print('={}',format(sum))
+print('={}'.format(sum))
 print('sum = {}'.format(sum))

@@ -1,12 +1,12 @@
 
-# 논리연산자
-# and   :    A and B 와 같은 조건에서, 
-#            A와 B 모두 True(참)일 때, 결과 True(참)이다.
+# �끉由ъ뿰�궛�옄
+# and   :    A and B ��� 媛숈�� 議곌굔�뿉�꽌, 
+#            A��� B 紐⑤몢 True(李�)�씪 �븣, 寃곌낵 True(李�)�씠�떎.
 
-# or    :    A or B 와 같은 조건에서, 
-#            A와 B 둘 중 하나의 조건이라도 True(참)이면,  결과 True(참)이다.
+# or    :    A or B ��� 媛숈�� 議곌굔�뿉�꽌, 
+#            A��� B �몮 以� �븯�굹�쓽 議곌굔�씠�씪�룄 True(李�)�씠硫�,  寃곌낵 True(李�)�씠�떎.
 
-# not   :    True 이면, False 로, False 이면, True 로 변경한다. 
+# not   :    True �씠硫�, False 濡�, False �씠硫�, True 濡� 蹂�寃쏀븳�떎. 
 
 a = 10
 b = 5 
